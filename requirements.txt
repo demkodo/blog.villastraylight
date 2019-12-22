@@ -1,4 +1,4 @@
-Django==1.7.1
+Django==1.11.23
 dj-database-url==0.3.0
 waitress==0.8.9
 whitenoise==1.0.4
